@@ -8,3 +8,5 @@ __esto es un texto en cursiva__
 *items 1
 *Items 2
 ### cascos2
+ comandos para abrir visual
+ ´ code.
