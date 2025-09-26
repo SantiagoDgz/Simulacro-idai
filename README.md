@@ -9,4 +9,4 @@ __esto es un texto en cursiva__
 *Items 2
 ### cascos2
  comandos para abrir visual
- ´ code.
+ ´. code.
